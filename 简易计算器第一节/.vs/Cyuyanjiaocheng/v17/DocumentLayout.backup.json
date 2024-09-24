@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C\u002B\u002B2024\\1\\\u7B80\u6613\u8BA1\u7B97\u5668\u7B2C\u4E00\u8282\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6382E2D3-9054-43E6-A9D0-865F9093EFC2}|Cyuyanjiaocheng\\Cyuyanjiaocheng.vcxproj|D:\\C\u002B\u002B2024\\1\\\u7B80\u6613\u8BA1\u7B97\u5668\u7B2C\u4E00\u8282\\Cyuyanjiaocheng\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6382E2D3-9054-43E6-A9D0-865F9093EFC2}|Cyuyanjiaocheng\\Cyuyanjiaocheng.vcxproj|solutionrelative:Cyuyanjiaocheng\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.c",
+              "DocumentMoniker": "D:\\C\u002B\u002B2024\\1\\\u7B80\u6613\u8BA1\u7B97\u5668\u7B2C\u4E00\u8282\\Cyuyanjiaocheng\\test.c",
+              "RelativeDocumentMoniker": "Cyuyanjiaocheng\\test.c",
+              "ToolTip": "D:\\C\u002B\u002B2024\\1\\\u7B80\u6613\u8BA1\u7B97\u5668\u7B2C\u4E00\u8282\\Cyuyanjiaocheng\\test.c",
+              "RelativeToolTip": "Cyuyanjiaocheng\\test.c",
+              "ViewState": "AgIAAL8AAAAAAAAAAAAuwMkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-18T04:45:44.146Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

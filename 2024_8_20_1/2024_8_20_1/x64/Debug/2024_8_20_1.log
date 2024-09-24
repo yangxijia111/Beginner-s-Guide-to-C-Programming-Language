@@ -1,0 +1,4 @@
+﻿  FileName.c
+D:\C++2024\1\2024_8_20_1\2024_8_20_1\FileName.c(9,3): warning C4013: “printf”未定义；假设外部返回 int
+FileName.obj : error LNK2019: 无法解析的外部符号 printf，函数 main 中引用了该符号
+D:\C++2024\1\2024_8_20_1\x64\Debug\2024_8_20_1.exe : fatal error LNK1120: 1 个无法解析的外部命令
