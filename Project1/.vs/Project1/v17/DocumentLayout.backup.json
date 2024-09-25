@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\u002B\u002B2024\\1\\Project1\\",
+  "WorkspaceRootPath": "D:\\C 2024\\project1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F6687913-65B3-4842-B1F1-B796FE944938}|Project1\\Project1.vcxproj|D:\\C\u002B\u002B2024\\1\\Project1\\Project1\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{F6687913-65B3-4842-B1F1-B796FE944938}|Project1\\Project1.vcxproj|solutionrelative:Project1\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{83FE67A3-22F0-4C38-81F2-B0DE9E012A3D}|project1\\project1.vcxproj|D:\\C 2024\\project1\\project1\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{83FE67A3-22F0-4C38-81F2-B0DE9E012A3D}|project1\\project1.vcxproj|solutionrelative:project1\\text.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,23 +14,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FileName.c",
-              "DocumentMoniker": "D:\\C\u002B\u002B2024\\1\\Project1\\Project1\\FileName.c",
-              "RelativeDocumentMoniker": "Project1\\FileName.c",
-              "ToolTip": "D:\\C\u002B\u002B2024\\1\\Project1\\Project1\\FileName.c*",
-              "RelativeToolTip": "Project1\\FileName.c*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAdAAAAAAAAAA==",
+              "Title": "text.c",
+              "DocumentMoniker": "D:\\C 2024\\project1\\project1\\text.c",
+              "RelativeDocumentMoniker": "project1\\text.c",
+              "ToolTip": "D:\\C 2024\\project1\\project1\\text.c",
+              "RelativeToolTip": "project1\\text.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-08-25T01:36:18.533Z",
+              "WhenOpened": "2024-09-24T22:50:35.444Z",
               "EditorCaption": ""
             }
           ]
